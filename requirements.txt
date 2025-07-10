@@ -1,4 +1,4 @@
-numpy==1.23.5
+numpy
 Cython==0.29.36
 pystan==2.19.1.1
 prophet==1.1.5
