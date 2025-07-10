@@ -1,0 +1,8 @@
+quandl
+matplotlib
+numpy
+prophet
+pystan
+pandas
+pytrends
+streamlit
