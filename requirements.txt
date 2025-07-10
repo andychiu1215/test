@@ -1,8 +1,9 @@
-quandl
-matplotlib
-numpy
-prophet
-pystan
+pystan==2.19.1.1
+prophet==1.1.5
 pandas
-pytrends
+numpy
+matplotlib
 streamlit
+yfinance
+pytrends
+quandl
